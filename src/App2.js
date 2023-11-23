@@ -1,5 +1,5 @@
 import './App.css';
-import HeaderState from './Components/Header/Header';
+import HeaderState from './Components/HeaderState/HeaderState';
 import FourByOne from './Components/FourByOne/FourByOne';
 import Nav from './Components/Nav/Nav';
 import Footer from './Components/Footer/Footer';
